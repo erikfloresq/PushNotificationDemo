@@ -1,0 +1,9 @@
+{
+  "Simulator Target Bundle": "dev.erikflores.TryApp",
+  "aps": {
+    "alert": {
+      "title": "Promociones",
+      "body": "Tienes un cupon de $100 😱"
+    }
+  }
+}
